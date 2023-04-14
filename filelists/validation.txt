@@ -1,0 +1,75 @@
+wavs/MM_14.wav|Flaminqoların rəngi krevet yediyi üçün çəhrayıdır.
+wavs/MM_30.wav|İnsan ürəyi qanı 4-cü mərtəbə səviyyəsinə qaldıracaq qədər təzyiq yaradır.
+wavs/MM_94.wav|Baltik Dənizinin mərkəzində 170 illik şampan butulkası tapılıb.
+wavs/MM_96.wav|Nil Armstronqun saçı 2004-cü ildə 3000 dollara satılıb
+wavs/MM_138.wav|Qütb ayılarının kürkü əslində ağ deyil
+wavs/MM_142.wav|İngiltərədə səhiyyə sahəsində işləyənlərin üzük taxması qadağandır.
+wavs/MM_149.wav|Qarı əritmək üçün bədəndə olduqca çox enerji sərf edilir.
+wavs/MM_163.wav|Hər hüceyrənin içində isə 100 trilyon atom var.
+wavs/MM_164.wav|Sinirlərin sayı dünyadakı bütün ulduzların sayından daha çoxdur.
+wavs/MM_189.wav|Zimbabvenin Bindura şəhərindən olan K.Kilner hamıdan çox, 565 939 ədəd həb dərman içib.
+wavs/MM_200.wav|Otuz yaşdan başlayaraq insanın əsas beyin ölçüləri azalır.
+wavs/MM_206.wav|Neftin təmizlənməsində bakteriyalardan istifadə olunur.
+wavs/MM_230.wav|Qadınların ürəyi kişilərin ürəyinə nisbətən daha sürətli döyünür.
+wavs/MM_233.wav|Dörd yaşlı uşaq gündə ortalama 450 sual verir.
+wavs/MM_238.wav|İnsan dodaqları barmaqlardan yüz dəfələrlə çox hissiyyatlıdır.
+wavs/MM_240.wav|Ömür boyu insanın dərisi dayanmadan yenilənir.
+wavs/MM_265.wav|İtlər bir insanın izini 80 km-dən də uzaq məsafədən tanıyır.
+wavs/MM_277.wav|İtlərin tər vəziləri yoxdur, patilerinden tərlərlər.
+wavs/MM_278.wav| Qədim Misir Sivilizasiyasında it sahibləri itləri öldüyündə günlərlə yas tutardılar.
+wavs/MM_285.wav|Bişmiş soğan  itlər üçün zərərlidir.
+wavs/MM_303.wav|Misir Piramdilarında işləyən fəhlələr gündə 4litr pivəyə işləyirdi.
+wavs/MM_304.wav|Sudanda Misirdən daha çox piramidalar var.
+wavs/MM_305.wav|Azadlıq Heykəli əslində Misir üçün nəzərdə tutulmuşdu.
+wavs/MM_308.wav|İtmiş Misir şəhəri Heracleion 1200 il sonra sular altından tapılmışdır.
+wavs/MM_331.wav|Misirdə sınaq evlilikləri olduqca məşhur bir metod idi.
+wavs/MM_335.wav|Dünyada təxminən üç milyard insan internetdən istifadə edir.
+wavs/MM_343.wav|Toys.com domain ünvanı 2009-cu ildə altı milyon dollara satılıb.
+wavs/MM_358.wav|Googleda bir gündə beş milyard axtarış edilir.
+wavs/MM_361.wav|Dünya əhalisinin 6faizi internet aludəçisidir.
+wavs/MM_420.wav|Muskus ördəkləri vəhşi ördəklər sayılır və yaxşı uçurlar. 
+wavs/MM_421.wav|Muskus ördəkləri 6-9 aylarında yumurtaya düşürlər. 
+wavs/MM_443.wav|Ördəklər iyi bilmirlər amma dad bilirlər.
+wavs/MM_478.wav|1898-ci ildə  Parisdə ilk 6 yeraltı metro xətləri çəkilib.
+wavs/MM_486.wav|Fransada nə az, nə çox, düz 4 969 ədəd qala var
+wavs/MM_504.wav|İtaliyada bir qadın tərəfindən jest etmək ədəbsiz sayılır.
+wavs/MM_559.wav|İtaliya dünyanın ən qədim ölkələrindən biri hesab olunur.
+wavs/MM_566.wav|İtaliyada evlənmək gec yaşda olur.
+wavs/MM_580.wav|İtaliya dünyanın yeddi möcüzəsindən birinə ev sahibliyi edir.
+wavs/MM_607.wav|Mütləq hər 8 Amerika vətandaşından biri McDonalds şirkətində çalışmışdır.
+wavs/MM_637.wav|Yunanıstanda X adlı bir qəbir var.
+wavs/MM_652.wav|Nəbatat bağı və Dendrari parkı Dubrovnikdən çox uzaqda yerləşir.
+wavs/MM_662.wav|Fransa katakombalarında 6 milyona yaxın insan dəfn edilib.
+wavs/MM_670.wav|Dövlət bayrağını Norveçdə demək olar ki, bütün evlərdə görmək olar.
+wavs/MM_680.wav|Avropalı pişiklər və itlər üç zəng taxmalıdırlar.
+wavs/MM_722.wav|1990-cı illərdə Fin istehsalçıları dizaynda lider idilər.
+wavs/MM_730.wav|Şərqi Avropa Şimal, Qərb və Cənubun birləşdiyi ərazidən daha böyükdür.
+wavs/MM_737.wav|Zelyonka hələ də yalnız Şərqi Avropada dərman kimi istifadə olunur.
+wavs/MM_743.wav|Ukrayna valyutası olan Grivna adını qızıl və ya gümüşdən almışdır.
+wavs/MM_748.wav|Ənənəvi olaraq Avropa beş hissəyə bölünür .
+wavs/MM_749.wav|Cənubi Avropada Qərbi, Şərqi və ya Şimali Avropadan fərqli olaraq daha çox ölkə yerləşir.
+wavs/MM_764.wav|1934-cü ilə qədər türklərin soyadları yox idi.
+wavs/MM_776.wav|Türk dili Latın əlifbasından istifadə edir.
+wavs/MM_812.wav|Netflix, müştəriləri artırmaq üçün qırmızı düymədən istifadə edirlər.
+wavs/MM_816.wav| Bəzən ad insanın məzmununu, yəni kimliyini əks etdirə bilir. 
+wavs/MM_880.wav|Baham adalarında güllü paltar geymək ər axtarıram mənasına gəlir.
+wavs/MM_887.wav|Kasablanka adı ispanca Ağ Ev mənasını verir.
+wavs/MM_899.wav|Hıçqırığı dayandırmağın ilk üsulu 30 saniyə ərzində polietilen paketdə nəfəs almaqdır.
+wavs/MM_975.wav|Üzərində A hərfi olan lyukun üzərinə çıxmaq sevgi və xoşbəxtlik gətirir.
+wavs/MM_976.wav|K hərfi olan lyukun üzərinə çıxmaq isə qırılan ürək və sevgidə uğursuzluğa işarədir.
+wavs/MM_981.wav|O zamanlar vərəmə görə Mantu yox, dərini cızaraq, Pirke sınağı edirdilər.
+wavs/MM_990.wav|Ziqmund Freyd kokainin xüsusiyyətlərini yoxladıqdan sonra onu depressiya qarşı bir müalicə olaraq təbliğ etdi.
+wavs/MM_1005.wav|Azərbaycan ilk müsəlman ölkəsi idi ki, qadınlara da kişilərlə bərabər siyasi hüquqlar verilirdi.
+wavs/MM_1011.wav|İlk opera isə Leyli və Məcnun  idi.
+wavs/MM_1025.wav|Bakı dünyada 20 şəhərlə qardaşlaşmış şəhər statusuna malikdir.
+wavs/MM_1027.wav|Dünya şöhrətli,  Moskva Metropoliteninin hazırkı başçısı İvan Besedin Bakıda andan olub.
+wavs/MM_1055.wav|Bu onların  yəni almazların nadir olmaları ilə izah olunur.
+wavs/MM_1058.wav|Əsl zümrüd brilyantdan bahadır.
+wavs/MM_1062.wav|Aleksandrit İmperator  Aleksandrın şərəfinə belə adlandırılıb.
+wavs/MM_1064.wav|Lakin müxtəlif kimyəvi elementlərin birləşməsi onlara müxtəlif rəng qazandırır. 
+wavs/MM_1076.wav|Firuzə daşının uğur daşı olduğuna əsrlər boyu insanlar inanmışlar.
+wavs/MM_1085.wav|Daşlarla müalicə ilk dəfə Hindistanda tətbiq edilib.
+wavs/MM_1096.wav|Əqiq daşı öz adını Siciliyada yerləşən Aqates adasının adından götürüb. 
+wavs/MM_1100.wav|Göz şəkilli əqiqdən heykəllərin gözlərini bəzəmək üçün istifadə edilirdi.
+wavs/MM_1106.wav|Mərcan sahibinin özünə nəzarət hissini artırır.
+wavs/MM_1107.wav|Mərcan yuxusuzluğu aradan qaldırır.
